@@ -75,6 +75,10 @@ Minha experiência em infraestrutura e operações inclui:
 - **Data Scientist — IBM**  
   Curso profissionalizante realizado em 2025.
 
+## Idiomas
+
+- **Inglês intermediário**, com foco na leitura de documentação técnica.
+
 ## Desenvolvimento Profissional e Educação Contínua
 
 - **Especialização em Java e Spring Boot:** desenvolvimento de microserviços escaláveis e aprofundamento em arquitetura de sistemas.
