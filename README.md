@@ -1,11 +1,21 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:14532d&height=170&text=Matheus%20Barbosa&fontColor=ffffff&fontSize=42&desc=Java%20%7C%20Spring%20Boot%20%7C%20Microservices&descSize=18&descAlignY=72" alt="Banner de Matheus Barbosa" width="100%" />
+</p>
+
 
 # Matheus Barbosa
 
-Estudante de Engenheiria da computação com formação em Analise e desenvolvimentode sistemas | Java · Spring Boot · Arquitetura de Software · Microserviços
+**Estudante de Engenharia da Computação, formado em Análise e Desenvolvimento de Sistemas**  
+Java · Spring Boot · Arquitetura de Software · Microserviços
 
-Atualmente relizo especialização em linguagem Java e no desenvolvimento de microserviços escaláveis com Spring Boot. Tenho sólidos conhecimentos e experiência em arquitetura de sistemas corporativos e estou em preparação ativa para a certificação **Oracle Certified Professional (OCP) Java SE 17**.
+Atualmente realizo especialização na linguagem Java e no desenvolvimento de microserviços escaláveis com Spring Boot. Tenho sólidos conhecimentos e experiência em arquitetura de sistemas corporativos e estou em preparação ativa para a certificação **Oracle Certified Professional (OCP) Java SE 17**.
 
-[GitHub](https://github.com/mbarbosa-dev) · [LinkedIn](https://www.linkedin.com/in/matheusgomes0101/)
+<p>
+  <a href="https://github.com/mbarbosa-dev"><img src="https://img.shields.io/badge/GitHub-mbarbosa--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Matheus Barbosa" /></a>
+  <a href="https://www.linkedin.com/in/matheusgomes0101/"><img src="https://img.shields.io/badge/LinkedIn-Matheus_Barbosa-0A66C2?style=for-the-badge" alt="LinkedIn de Matheus Barbosa" /></a>
+</p>
+
+---
 
 ## Sobre mim
 
@@ -38,6 +48,12 @@ A leitura da documentação oficial da linguagem e das APIs complementa minha fo
 Esse estudo acompanha minha especialização em Java e a preparação para a OCP Java SE 17.
 
 ## Foco técnico
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
 - **Java:** especialização na linguagem e aprofundamento por meio da documentação oficial.
 - **Spring Boot:** desenvolvimento de aplicações e microserviços.
@@ -88,7 +104,7 @@ Atuação em gestão de ativos, procedimentos operacionais e coordenação de pe
 - **Data Scientist — IBM**  
   Curso profissionalizante realizado em 2025.
   
-  **Estudo Dirigido: Framework ITIL 4 Foundation** – _Leitura e análise prática das diretrizes de ITSM e Cadeia de Valor de Serviço.
+  **Estudo Dirigido: Framework ITIL 4 Foundation** – _Leitura e análise prática das diretrizes de ITSM e Cadeia de Valor de Serviço._
 
 ## Desenvolvimento Profissional e Educação Contínua
 
@@ -104,4 +120,3 @@ A preparação para a certificação faz parte do meu compromisso com o domínio
 
 - **LinkedIn:** [matheusgomes0101](https://www.linkedin.com/in/matheusgomes0101/)
 - **GitHub:** [mbarbosa-dev](https://github.com/mbarbosa-dev)
-```
