@@ -2,9 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:14532d&height=170&text=Matheus%20Barbosa&fontColor=ffffff&fontSize=42&desc=Java%20%7C%20Spring%20Boot%20%7C%20Microservices&descSize=18&descAlignY=72" alt="Banner de Matheus Barbosa" width="100%" />
 </p>
 
-
-# Matheus Barbosa
-
 **Estudante de Engenharia da Computação, formado em Análise e Desenvolvimento de Sistemas**  
 Java · Spring Boot · Arquitetura de Software · Microserviços
 
