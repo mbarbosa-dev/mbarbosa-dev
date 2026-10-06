@@ -120,3 +120,12 @@ A preparação para a certificação faz parte do meu compromisso com o domínio
 
 - **LinkedIn:** [matheusgomes0101](https://www.linkedin.com/in/matheusgomes0101/)
 - **GitHub:** [mbarbosa-dev](https://github.com/mbarbosa-dev)
+
+
+## Minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mbarbosa-dev/mbarbosa-dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mbarbosa-dev/mbarbosa-dev/output/github-snake.svg" />
+  <img alt="Animação da cobrinha percorrendo minhas contribuições no GitHub" src="https://raw.githubusercontent.com/mbarbosa-dev/mbarbosa-dev/output/github-snake.svg" width="100%" />
+</picture>
