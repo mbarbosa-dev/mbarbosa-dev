@@ -8,7 +8,7 @@
 **Estudante de Engenharia da Computação, formado em Análise e Desenvolvimento de Sistemas**  
 Java · Spring Boot · Arquitetura de Software · Microserviços
 
-Atualmente realizo especialização na linguagem Java e no desenvolvimento de microserviços escaláveis com Spring Boot. Tenho sólidos conhecimentos e experiência em arquitetura de sistemas corporativos e estou em preparação ativa para a certificação **Oracle Certified Professional (OCP) Java SE 17**.
+Meu foco é o desenvolvimento backend com **Java e Spring Boot**, com especialização em microserviços escaláveis e arquitetura de sistemas.
 
 <p>
   <a href="https://github.com/mbarbosa-dev"><img src="https://img.shields.io/badge/GitHub-mbarbosa--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Matheus Barbosa" /></a>
@@ -19,33 +19,9 @@ Atualmente realizo especialização na linguagem Java e no desenvolvimento de mi
 
 ## Sobre mim
 
-Sou Engenheiro de Software, em especialização em Java e no desenvolvimento de microserviços escaláveis com Spring Boot. Tenho sólidos conhecimentos em arquitetura de sistemas e estou em preparação ativa para a certificação Oracle Certified Professional (OCP) Java SE 17.
+Sou formado em Análise e Desenvolvimento de Sistemas e graduando em Engenharia da Computação. Minha trajetória reúne experiência em análise de sistemas, suporte técnico, infraestrutura e automação, com atendimento a ambientes corporativos de clientes como **LATAM, PagBank e Smart Fit** durante minha atuação na Konecta.
 
-Minha trajetória em tecnologia reúne experiência em análise de sistemas, suporte técnico, infraestrutura e automação. Durante minha atuação como analista de sistemas,  prestei suporte a ambientes corporativos de clientes como **LATAM, PagBank e Smart Fit**, com atendimento remoto e presencial, administração de sistemas e investigação de incidentes.
-
-Essa experiência ampliou minha compreensão sobre disponibilidade, confiabilidade e o impacto das aplicações nas operações de negócio. Hoje, aplico essa visão à engenharia de software, buscando construir sistemas com responsabilidades claras, código testável e estruturas que facilitem a manutenção e a evolução.
-
-### Minha Biblioteca
-
-#### Fundamentos da Engenharia de Software: De programador a engenheiro de software
-
-Essa leitura amplia minha perspectiva sobre o desenvolvimento, conectando a implementação de código à compreensão de requisitos, à qualidade e à manutenção dos sistemas.
-
-Contribui para minha evolução como engenheiro de software ao estimular uma visão mais ampla sobre as decisões técnicas e o ciclo de vida das aplicações.
-
-#### [Arquitetura Limpa: O guia do artesão para estrutura e design de software](https://www.amazon.com.br/Arquitetura-Limpa-artes%C3%A3o-estrutura-software-ebook/dp/B085PP6Y8P)
-
-Essa leitura fortalece minha compreensão sobre separação de responsabilidades e organização de dependências.
-
-Apoia minha formação em Java e Spring Boot ao orientar a construção de aplicações com regras de negócio mais independentes, testáveis e fáceis de evoluir.
-
-### Documentação Técnica
-
-#### Documentação oficial do Java
-
-A leitura da documentação oficial da linguagem e das APIs complementa minha formação e desenvolve minha autonomia para investigar comportamentos, esclarecer dúvidas e fundamentar decisões de implementação.
-
-Esse estudo acompanha minha especialização em Java e a preparação para a OCP Java SE 17.
+Essa base fortalece minha visão sobre disponibilidade, confiabilidade e diagnóstico de aplicações. Atualmente, aprofundo meus conhecimentos em Java, Spring Boot e arquitetura de software, com atenção à separação de responsabilidades, à testabilidade e à evolução dos sistemas.
 
 ## Foco técnico
 
@@ -68,8 +44,8 @@ Minha experiência em infraestrutura e operações inclui:
 - Administração e gerenciamento de ambientes de Gestão de Identidade e Acesso (IAM).
 - Redes: TCP/IP, DNS, DHCP e VLANs.
 - Shell e CLI para automação de tarefas.
-- Administrador de sistema ESM (Enterprise Service Management) Jira Service Management
-- Softwares de Gestão de Projetos e Produtividade (Jira)
+- Administração de Jira Service Management (ESM).
+- Jira para gestão de projetos e produtividade.
 
 ## Experiência profissional
 
@@ -83,15 +59,10 @@ Minha experiência em infraestrutura e operações inclui:
 - Gestão de chamados e investigação técnica de problemas em aplicações.
 - Uso do Chrome DevTools para diagnóstico de incidentes web e análise de tráfego de rede.
 
-### Prestador de serviços autônomo — Friozem Logística
-**2021 a 2024**
+### Experiências anteriores
 
-Gestão de transporte de cargas refrigeradas, planejamento de entregas e atendimento a clientes. Essa experiência desenvolveu minha organização, autonomia e responsabilidade com prazos.
-
-### Militar Temporário — Aeronáutica
-**2017 a 2021**
-
-Atuação em gestão de ativos, procedimentos operacionais e coordenação de pequenas equipes, fortalecendo disciplina, colaboração e atenção à qualidade da execução.
+- **Friozem Logística — Prestador de serviços autônomo (2021–2024):** gestão de transporte, planejamento de entregas e atendimento a clientes, com foco em organização e cumprimento de prazos.
+- **Aeronáutica — Militar Temporário (2017–2021):** gestão de ativos, procedimentos operacionais e coordenação de pequenas equipes.
 
 ## Formação acadêmica
 
@@ -103,18 +74,28 @@ Atuação em gestão de ativos, procedimentos operacionais e coordenação de pe
 
 - **Data Scientist — IBM**  
   Curso profissionalizante realizado em 2025.
-  
-  **Estudo Dirigido: Framework ITIL 4 Foundation** – _Leitura e análise prática das diretrizes de ITSM e Cadeia de Valor de Serviço._
 
 ## Desenvolvimento Profissional e Educação Contínua
 
-Meu desenvolvimento atual está direcionado à especialização em Java, à construção de microserviços com Spring Boot e ao aprofundamento em arquitetura de sistemas.
+- **Especialização em Java e Spring Boot:** desenvolvimento de microserviços escaláveis e aprofundamento em arquitetura de sistemas.
+- **Oracle Certified Professional (OCP) Java SE 17:** preparação ativa para a certificação.
+- **ITIL 4 Foundation:** estudo dirigido das diretrizes de ITSM e da Cadeia de Valor de Serviço.
 
-### Preparação para certificação
+### Minha Biblioteca
 
-**Oracle Certified Professional (OCP) Java SE 17 — em preparação**
+#### Fundamentos da Engenharia de Software: De programador a engenheiro de software
 
-A preparação para a certificação faz parte do meu compromisso com o domínio da linguagem e com uma formação técnica consistente.
+Amplia minha visão sobre requisitos, qualidade e manutenção, conectando a implementação de código às decisões de engenharia e ao ciclo de vida das aplicações.
+
+#### [Arquitetura Limpa: O guia do artesão para estrutura e design de software](https://www.amazon.com.br/Arquitetura-Limpa-artes%C3%A3o-estrutura-software-ebook/dp/B085PP6Y8P)
+
+Fortalece minha compreensão sobre separação de responsabilidades e dependências, orientando a construção de aplicações com regras de negócio independentes, testáveis e fáceis de evoluir.
+
+### Documentação Técnica
+
+#### Documentação oficial do Java
+
+A consulta à documentação da linguagem e das APIs desenvolve minha autonomia para investigar comportamentos e fundamentar decisões de implementação. Complementa minha especialização e a preparação para a OCP Java SE 17.
 
 ## Contato
 
