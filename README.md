@@ -1,20 +1,41 @@
+
 # Matheus Barbosa
 
-### Engenheiro de Software | Java · Spring Boot · Microserviços
+Estudante de Engenheiria da computação com formação em Analise e desenvolvimentode sistemas | Java · Spring Boot · Arquitetura de Software · Microserviços
 
-Especialização em Java e no desenvolvimento de microserviços escaláveis com Spring Boot. Sólidos conhecimentos em arquitetura de sistemas e preparação ativa para a **Oracle Certified Professional (OCP) Java SE 17**.
+Atualmente relizo especialização em linguagem Java e no desenvolvimento de microserviços escaláveis com Spring Boot. Tenho sólidos conhecimentos e experiência em arquitetura de sistemas corporativos e estou em preparação ativa para a certificação **Oracle Certified Professional (OCP) Java SE 17**.
 
 [GitHub](https://github.com/mbarbosa-dev) · [LinkedIn](https://www.linkedin.com/in/matheusgomes0101/)
-
----
 
 ## Sobre mim
 
 Sou Engenheiro de Software, em especialização em Java e no desenvolvimento de microserviços escaláveis com Spring Boot. Tenho sólidos conhecimentos em arquitetura de sistemas e estou em preparação ativa para a certificação Oracle Certified Professional (OCP) Java SE 17.
 
-Minha trajetória em tecnologia reúne experiência em suporte técnico, infraestrutura e automação. Durante minha atuação na Konecta, prestei suporte a ambientes corporativos de clientes como **LATAM, PagBank e Smart Fit**, com atendimento remoto e presencial, administração de sistemas e investigação de incidentes.
+Minha trajetória em tecnologia reúne experiência em análise de sistemas, suporte técnico, infraestrutura e automação. Durante minha atuação como analista de sistemas,  prestei suporte a ambientes corporativos de clientes como **LATAM, PagBank e Smart Fit**, com atendimento remoto e presencial, administração de sistemas e investigação de incidentes.
 
 Essa experiência ampliou minha compreensão sobre disponibilidade, confiabilidade e o impacto das aplicações nas operações de negócio. Hoje, aplico essa visão à engenharia de software, buscando construir sistemas com responsabilidades claras, código testável e estruturas que facilitem a manutenção e a evolução.
+
+### Minha Biblioteca
+
+#### Fundamentos da Engenharia de Software: De programador a engenheiro de software
+
+Essa leitura amplia minha perspectiva sobre o desenvolvimento, conectando a implementação de código à compreensão de requisitos, à qualidade e à manutenção dos sistemas.
+
+Contribui para minha evolução como engenheiro de software ao estimular uma visão mais ampla sobre as decisões técnicas e o ciclo de vida das aplicações.
+
+#### [Arquitetura Limpa: O guia do artesão para estrutura e design de software](https://www.amazon.com.br/Arquitetura-Limpa-artes%C3%A3o-estrutura-software-ebook/dp/B085PP6Y8P)
+
+Essa leitura fortalece minha compreensão sobre separação de responsabilidades e organização de dependências.
+
+Apoia minha formação em Java e Spring Boot ao orientar a construção de aplicações com regras de negócio mais independentes, testáveis e fáceis de evoluir.
+
+### Documentação Técnica
+
+#### Documentação oficial do Java
+
+A leitura da documentação oficial da linguagem e das APIs complementa minha formação e desenvolve minha autonomia para investigar comportamentos, esclarecer dúvidas e fundamentar decisões de implementação.
+
+Esse estudo acompanha minha especialização em Java e a preparação para a OCP Java SE 17.
 
 ## Foco técnico
 
@@ -25,12 +46,14 @@ Essa experiência ampliou minha compreensão sobre disponibilidade, confiabilida
 
 ### Competências complementares
 
+Minha experiência em infraestrutura e operações inclui:
+
 - Linux e Windows Server.
-- Active Directory e Microsoft Entra ID.
+- Administração e gerenciamento de ambientes de Gestão de Identidade e Acesso (IAM).
 - Redes: TCP/IP, DNS, DHCP e VLANs.
 - Shell e CLI para automação de tarefas.
-- GLPI e ferramentas de RMM.
-- Gestão de incidentes, análise de causa raiz e acompanhamento de SLA e MTTR.
+- Administrador de sistema ESM (Enterprise Service Management) Jira Service Management
+- Softwares de Gestão de Projetos e Produtividade (Jira)
 
 ## Experiência profissional
 
@@ -58,10 +81,14 @@ Atuação em gestão de ativos, procedimentos operacionais e coordenação de pe
 
 - **Engenharia da Computação — Universidade Anhanguera**  
   Em andamento, com conclusão prevista para junho de 2028.
+
 - **Análise e Desenvolvimento de Sistemas — Estácio**  
   Concluído em 2025.
+
 - **Data Scientist — IBM**  
   Curso profissionalizante realizado em 2025.
+  
+  **Estudo Dirigido: Framework ITIL 4 Foundation** – _Leitura e análise prática das diretrizes de ITSM e Cadeia de Valor de Serviço.
 
 ## Desenvolvimento Profissional e Educação Contínua
 
@@ -73,29 +100,8 @@ Meu desenvolvimento atual está direcionado à especialização em Java, à cons
 
 A preparação para a certificação faz parte do meu compromisso com o domínio da linguagem e com uma formação técnica consistente.
 
-### Minha Biblioteca
-
-#### Fundamentos da Engenharia de Software: De programador a engenheiro de software
-
-Essa leitura amplia minha perspectiva sobre o desenvolvimento, conectando a implementação de código à compreensão de requisitos, à qualidade e à manutenção dos sistemas.
-
-Contribui para minha evolução como engenheiro de software ao estimular uma visão mais ampla sobre as decisões técnicas e o ciclo de vida das aplicações.
-
-#### [Arquitetura Limpa: O guia do artesão para estrutura e design de software](https://www.amazon.com.br/Arquitetura-Limpa-artes%C3%A3o-estrutura-software-ebook/dp/B085PP6Y8P)
-
-Essa leitura fortalece minha compreensão sobre separação de responsabilidades e organização de dependências.
-
-Apoia minha formação em Java e Spring Boot ao orientar a construção de aplicações com regras de negócio mais independentes, testáveis e fáceis de evoluir.
-
-### Documentação Técnica
-
-#### Documentação oficial do Java
-
-A leitura da documentação oficial da linguagem e das APIs complementa minha formação e desenvolve minha autonomia para investigar comportamentos, esclarecer dúvidas e fundamentar decisões de implementação.
-
-Esse estudo acompanha minha especialização em Java e a preparação para a OCP Java SE 17.
-
 ## Contato
 
 - **LinkedIn:** [matheusgomes0101](https://www.linkedin.com/in/matheusgomes0101/)
 - **GitHub:** [mbarbosa-dev](https://github.com/mbarbosa-dev)
+```
