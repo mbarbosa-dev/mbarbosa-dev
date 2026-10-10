@@ -2,10 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:14532d&height=170&text=Matheus%20Barbosa&fontColor=ffffff&fontSize=42&desc=Java%20%7C%20Spring%20Boot%20%7C%20Microservices&descSize=18&descAlignY=72" alt="Banner de Matheus Barbosa" width="100%" />
 </p>
 
-**Estudante de Engenharia da Computação, formado em Análise e Desenvolvimento de Sistemas**  
-Java · Spring Boot · Arquitetura de Software · Microserviços
+**Estudante de Engenharia da Computação | Graduado em Análise e Desenvolvimento de Sistemas** | Especialização em Java 
 
-Meu foco é o desenvolvimento backend com **Java e Spring Boot**, com especialização em microserviços escaláveis e arquitetura de sistemas.
+Atuando como Engenheiro de backend com domínio em **Java e Spring Boot**, microserviços escaláveis e arquiteturas orientadas a eventos. Construo sistemas de alto rendimento, de nível empresarial com +3 anos de experiência.
 
 <p>
   <a href="https://github.com/mbarbosa-dev"><img src="https://img.shields.io/badge/GitHub-mbarbosa--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Matheus Barbosa" /></a>
@@ -30,10 +29,15 @@ Essa base fortalece minha visão sobre disponibilidade, confiabilidade e diagnó
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
+
+- Focado em arquitetura de software, sistemas modulares, manutenibilidade
 - **Java:** especialização na linguagem e aprofundamento por meio da documentação oficial.
 - **Spring Boot:** desenvolvimento de aplicações e microserviços.
 - **Arquitetura de sistemas:** organização de componentes, separação de responsabilidades e gestão de dependências.
 - **Qualidade de software:** atenção à clareza, à testabilidade e à manutenção do código.
+- Projetando sistemas backend escaláveis.
+- Explorando ferramentas para desenvolvedores com IA.
+- Escrevendo no Blog mbarbosa
 
 ### Competências complementares
 
